@@ -1,0 +1,11 @@
+Media/
+.git
+node_modules
+dist
+.agents
+.codegraph
+.gemini
+.cursor
+*.pem
+*.key
+
