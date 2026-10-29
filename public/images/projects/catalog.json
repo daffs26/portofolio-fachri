@@ -1,0 +1,340 @@
+{
+  "campaign": {
+    "count": 13,
+    "totalKb": 1635.6,
+    "items": [
+      {
+        "originalName": "172X60 cm - SPY - PS BATU LICIN.jpg",
+        "path": "/images/projects/campaign/172x60-cm-spy-ps-batu-licin.webp",
+        "sizeKb": 82.1,
+        "width": 1600,
+        "height": 558
+      },
+      {
+        "originalName": "172x61 cm - JEC PS TERA - 1.jpg",
+        "path": "/images/projects/campaign/172x61-cm-jec-ps-tera-1.webp",
+        "sizeKb": 66.8,
+        "width": 1600,
+        "height": 567
+      },
+      {
+        "originalName": "172x61 cm - JEC PS TERA - 2.jpg",
+        "path": "/images/projects/campaign/172x61-cm-jec-ps-tera-2.webp",
+        "sizeKb": 75.5,
+        "width": 1600,
+        "height": 567
+      },
+      {
+        "originalName": "172x61 cm - PSC 2 - PS TERA.jpg",
+        "path": "/images/projects/campaign/172x61-cm-psc-2-ps-tera.webp",
+        "sizeKb": 67.1,
+        "width": 1600,
+        "height": 567
+      },
+      {
+        "originalName": "172x61 cm - VOX LADIES - PS TERA.jpg",
+        "path": "/images/projects/campaign/172x61-cm-vox-ladies-ps-tera.webp",
+        "sizeKb": 114.3,
+        "width": 1600,
+        "height": 567
+      },
+      {
+        "originalName": "58x80 cm - DRG - PS BATULICIN.jpg",
+        "path": "/images/projects/campaign/58x80-cm-drg-ps-batulicin.webp",
+        "sizeKb": 125.7,
+        "width": 1160,
+        "height": 1600
+      },
+      {
+        "originalName": "80x80 - INS - PS PANAM.jpg",
+        "path": "/images/projects/campaign/80x80-ins-ps-panam.webp",
+        "sizeKb": 357.9,
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "originalName": "8e4abb3a-a6fb-49e4-9f0d-c9855f4fa397.png",
+        "path": "/images/projects/campaign/8e4abb3a-a6fb-49e4-9f0d-c9855f4fa397.webp",
+        "sizeKb": 245.3,
+        "width": 1111,
+        "height": 1415
+      },
+      {
+        "originalName": "DESIGN DEPAN TOKO - SPY.jpg",
+        "path": "/images/projects/campaign/design-depan-toko-spy.webp",
+        "sizeKb": 122.7,
+        "width": 1066,
+        "height": 1600
+      },
+      {
+        "originalName": "DESKRIPSI.jpg",
+        "path": "/images/projects/campaign/deskripsi.webp",
+        "sizeKb": 91.5,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "IMAGE DRG_78 x 54 CM - PS GOWA.png",
+        "path": "/images/projects/campaign/image-drg-78-x-54-cm-ps-gowa.webp",
+        "sizeKb": 85.2,
+        "width": 1107,
+        "height": 1600
+      },
+      {
+        "originalName": "JEC TUZA.jpg",
+        "path": "/images/projects/campaign/jec-tuza.webp",
+        "sizeKb": 37.9,
+        "width": 1600,
+        "height": 208
+      },
+      {
+        "originalName": "SPY 1 PERINTIS.jpg",
+        "path": "/images/projects/campaign/spy-1-perintis.webp",
+        "sizeKb": 163.6,
+        "width": 1600,
+        "height": 842
+      }
+    ]
+  },
+  "jersey": {
+    "count": 5,
+    "totalKb": 559.7,
+    "items": [
+      {
+        "originalName": "3D MOCKUP JERSEY REVISI BAPAK - 1.png",
+        "path": "/images/projects/jersey/3d-mockup-jersey-revisi-bapak-1.webp",
+        "sizeKb": 118.1,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "BACK VIEW JERSEY.png",
+        "path": "/images/projects/jersey/back-view-jersey.webp",
+        "sizeKb": 104.3,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "DESKRIPSI.jpg",
+        "path": "/images/projects/jersey/deskripsi.webp",
+        "sizeKb": 78.0,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "FRONT VIEW 03.jpg",
+        "path": "/images/projects/jersey/front-view-03.webp",
+        "sizeKb": 95.9,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "MOCKUP.png",
+        "path": "/images/projects/jersey/mockup.webp",
+        "sizeKb": 163.4,
+        "width": 1111,
+        "height": 1415
+      }
+    ]
+  },
+  "parfume": {
+    "count": 7,
+    "totalKb": 879.9,
+    "items": [
+      {
+        "originalName": "BOX KE ISI.png",
+        "path": "/images/projects/parfume/box-ke-isi.webp",
+        "sizeKb": 200.4,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "BOX.png",
+        "path": "/images/projects/parfume/box.webp",
+        "sizeKb": 126.6,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "DESKRIPSI.jpg",
+        "path": "/images/projects/parfume/deskripsi.webp",
+        "sizeKb": 61.0,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "NEW.png",
+        "path": "/images/projects/parfume/new.webp",
+        "sizeKb": 143.0,
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "originalName": "POLOS BULAT.png",
+        "path": "/images/projects/parfume/polos-bulat.webp",
+        "sizeKb": 99.3,
+        "width": 1088,
+        "height": 1445
+      },
+      {
+        "originalName": "POLOS.png",
+        "path": "/images/projects/parfume/polos.webp",
+        "sizeKb": 79.2,
+        "width": 1088,
+        "height": 1445
+      },
+      {
+        "originalName": "VOX BULAT.png",
+        "path": "/images/projects/parfume/vox-bulat.webp",
+        "sizeKb": 170.4,
+        "width": 1254,
+        "height": 1254
+      }
+    ]
+  },
+  "logo": {
+    "count": 11,
+    "totalKb": 436.5,
+    "items": [
+      {
+        "originalName": "1.jpg",
+        "path": "/images/projects/logo/1.webp",
+        "sizeKb": 11.8,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "2 (2).jpg",
+        "path": "/images/projects/logo/2-2.webp",
+        "sizeKb": 19.9,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "2.jpg",
+        "path": "/images/projects/logo/2.webp",
+        "sizeKb": 33.5,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "3.jpg",
+        "path": "/images/projects/logo/3.webp",
+        "sizeKb": 15.6,
+        "width": 1131,
+        "height": 1600
+      },
+      {
+        "originalName": "011b836e-0cdf-4e40-aeb6-3f0a8ff61344.png",
+        "path": "/images/projects/logo/1-011b836e-0cdf-4e40-aeb6-3f0a8ff61344.webp",
+        "sizeKb": 48.4,
+        "width": 1600,
+        "height": 534
+      },
+      {
+        "originalName": "1.png",
+        "path": "/images/projects/logo/1-1.webp",
+        "sizeKb": 94.4,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "2.png",
+        "path": "/images/projects/logo/1-2.webp",
+        "sizeKb": 65.9,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "3.png",
+        "path": "/images/projects/logo/1-3.webp",
+        "sizeKb": 100.8,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "originalName": "01- 2.jpg",
+        "path": "/images/projects/logo/2-01-2.webp",
+        "sizeKb": 16.7,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "originalName": "01- 3.jpg",
+        "path": "/images/projects/logo/2-01-3.webp",
+        "sizeKb": 11.4,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "originalName": "01-1.jpg",
+        "path": "/images/projects/logo/2-01-1.webp",
+        "sizeKb": 18.1,
+        "width": 1080,
+        "height": 1350
+      }
+    ]
+  },
+  "sosmed": {
+    "count": 8,
+    "totalKb": 1367.9,
+    "items": [
+      {
+        "originalName": "FEED VOX 1.jpg",
+        "path": "/images/projects/sosmed/feed-vox-1.webp",
+        "sizeKb": 214.6,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "originalName": "FEED VOX 3.jpg",
+        "path": "/images/projects/sosmed/feed-vox-3.webp",
+        "sizeKb": 118.5,
+        "width": 1080,
+        "height": 1350
+      },
+      {
+        "originalName": "Kaos SPYDER di Pagar Kuning Malam Hari.png",
+        "path": "/images/projects/sosmed/kaos-spyder-di-pagar-kuning-malam-hari.webp",
+        "sizeKb": 160.0,
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "originalName": "Screenshot 2026-10-28 110304.png",
+        "path": "/images/projects/sosmed/screenshot-2026-10-28-110304.webp",
+        "sizeKb": 142.7,
+        "width": 1411,
+        "height": 934
+      },
+      {
+        "originalName": "Screenshot 2026-10-28 110349.png",
+        "path": "/images/projects/sosmed/screenshot-2026-10-28-110349.webp",
+        "sizeKb": 129.8,
+        "width": 1413,
+        "height": 942
+      },
+      {
+        "originalName": "Screenshot 2026-10-28 110422.png",
+        "path": "/images/projects/sosmed/screenshot-2026-10-28-110422.webp",
+        "sizeKb": 191.1,
+        "width": 1414,
+        "height": 748
+      },
+      {
+        "originalName": "Screenshot 2026-10-28 110627.png",
+        "path": "/images/projects/sosmed/screenshot-2026-10-28-110627.webp",
+        "sizeKb": 268.4,
+        "width": 1412,
+        "height": 939
+      },
+      {
+        "originalName": "Screenshot 2026-10-28 110737.png",
+        "path": "/images/projects/sosmed/screenshot-2026-10-28-110737.webp",
+        "sizeKb": 142.8,
+        "width": 1414,
+        "height": 751
+      }
+    ]
+  }
+}
